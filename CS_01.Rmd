@@ -369,6 +369,7 @@ wilcox.test(prod_quality ~ future_relationship, data = data, alternative = 'two.
 
 > **result**: the median of two groups is statistically significant different -> product_quality has effect on future_relationship
 
+***
 
 # Data PreProcessing
 ## Data Manipulation (Changing variable)
